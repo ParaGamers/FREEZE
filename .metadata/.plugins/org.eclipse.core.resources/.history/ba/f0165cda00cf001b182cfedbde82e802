@@ -1,0 +1,21 @@
+main: main.Main
+version: 1.0.1
+name: freezer-by-PG
+Description: Plugin de freeze jugadores para minecraft.
+api-version: 1.16
+load: STARTUP
+author: ParaGamersDevTeam
+website: paragamers.net
+
+commands:
+   congelar:
+     description: Tira el dado
+     usage: "Uso: /dado <numero de dados> <Cantidad de caras>"
+     aliases: dice
+permissions:
+   freezeador.puedeFrezear:
+     description: permite frezear
+     default: op
+   freezeador.inmune:
+     description: inmune al frezeadorINADOR
+     default: op

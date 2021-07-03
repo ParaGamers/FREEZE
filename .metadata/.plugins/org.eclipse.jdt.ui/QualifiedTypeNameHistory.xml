@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.PluginDescriptionFile"/>
+    <fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+    <fullyQualifiedTypeName name="org.bukkit.configuration.file.FileConfiguration"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.CommandExecutor"/>
+    <fullyQualifiedTypeName name="main.Main"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.Inventory"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_16_R3.ItemStack"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+    <fullyQualifiedTypeName name="org.bukkit.Material"/>
+    <fullyQualifiedTypeName name="net.md_5.bungee.api.ChatColor"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.core.config.plugins.util.PluginManager"/>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.PluginManager"/>
+    <fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.inventory.InventoryClickEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerMoveEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerTeleportEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerVelocityEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.Location"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.entity.BatToggleSleepEvent"/>
+    <fullyQualifiedTypeName name="java.awt.desktop.SystemSleepListener"/>
+    <fullyQualifiedTypeName name="com.mojang.datafixers.types.families.ListAlgebra"/>
+    <fullyQualifiedTypeName name="Eventos.Inventario"/>
+</qualifiedTypeNameHistroy>

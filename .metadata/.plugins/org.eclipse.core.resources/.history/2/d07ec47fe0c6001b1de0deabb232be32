@@ -1,0 +1,15 @@
+main: main.Main
+version: 1.0.1
+name: freezer-by-PG
+Description: Plugin de dado rpg para minecraft.
+api-version: 1.16
+load: STARTUP
+author: ParaGamersDevTeam
+website: paragamers.net
+
+commands:
+   dado:
+     description: Tira el dado
+     usage: "Uso: /dado <numero de dados> <Cantidad de caras>"
+     aliases: dice
+      
